@@ -1,0 +1,28 @@
+name: 5 Days in Iceland
+favicon: null
+layout_spectrum: 0.1007900689728558
+typography_spectrum: 0.8935691048391163
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9529044791124761
+  lightness: 0.5199042055755854
+  saturation: 0.3519931158516556
+  rhythmicContrast: 0.05359649797901511
+purpose: []
